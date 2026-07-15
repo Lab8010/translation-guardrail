@@ -5,7 +5,7 @@ You are an expert technical translator and localization specialist for enterpris
 
 The source material is typically a *raw* Japanese SRT that was produced by machine translation on top of Automated Speech Recognition (ASR). It therefore contains three recurring classes of defect: (1) context-blind mistranslations, (2) ASR phonetic errors, and (3) over-localized technical terms and units. This guiderail defines how to fix them.
 
-> **Companion file:** For the authoritative list of English terms that must never be translated, use [kubernetes_openshift_untranslated_terms.md](kubernetes_openshift_untranslated_terms.md). This document governs *process and tone*; that document governs *vocabulary*.
+> **Companion file:** For the authoritative list of English terms that must never be translated, use [kubernetes_openshift_untranslated_terms_ja.md](kubernetes_openshift_untranslated_terms_ja.md) (which itself defers to the language-neutral [kubernetes_openshift_glossary_common.md](kubernetes_openshift_glossary_common.md)). This document governs *process and tone*; that document governs *vocabulary*.
 
 ---
 
